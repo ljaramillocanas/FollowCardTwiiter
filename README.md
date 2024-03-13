@@ -10,3 +10,6 @@ cd my-project
 
 npm install
 npm run dev
+
+
+![image](https://github.com/ljaramillocanas/FollowCardTwiiter/assets/101465088/21a9dee9-8bfe-4519-bbe7-df3021ef5bf6)
