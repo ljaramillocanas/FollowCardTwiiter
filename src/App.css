@@ -63,6 +63,7 @@
   
   .tw-followCard-button.is-following:hover .tw-followCard-text {
     display: none;
+    background-color: rebeccapurple;
   }
   
   .tw-followCard-button.is-following:hover .tw-followCard-stopFollow {
