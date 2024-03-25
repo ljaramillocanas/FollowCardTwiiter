@@ -18,7 +18,7 @@ Este proyecto implementa una tarjeta de seguimiento de Twitter utilizando React 
 1. Clona este repositorio en tu máquina local utilizando Git:
 
    ```
-   git clone https://github.com/tu-usuario/FollowCardTwiiter.git
+   git clone https://github.com/ljaramillocanas/FollowCardTwiiter.git
    ```
 
 2. Navega al directorio del proyecto:
