@@ -1,19 +1,19 @@
-# Twitter Follow Card con React y Vite
+# 🧑‍💻Twitter Follow Card con React y Vite
 
 Este proyecto implementa una tarjeta de seguimiento de Twitter utilizando React para la interfaz de usuario y el servidor Vite para el desarrollo rápido. La tarjeta muestra información básica de un usuario de Twitter y permite a los usuarios seguirlos directamente desde la tarjeta.
 
-## Características
+## 🚀Características
 
 - Muestra el nombre de usuario y la imagen de perfil del usuario de Twitter.
 - Botón de "Seguir" que redirige al usuario a su perfil de Twitter para seguirlos.
 - Implementado con React para una interfaz de usuario dinámica y reactiva.
 - Utiliza Vite como servidor de desarrollo para una configuración rápida y eficiente.
 
-## Captura de pantalla
+## 📷Captura de pantalla
 
 ![image](https://github.com/ljaramillocanas/FollowCardTwiiter/assets/101465088/21a9dee9-8bfe-4519-bbe7-df3021ef5bf6)
 
-## Instalación
+## 🛠️Instalación
 
 1. Clona este repositorio en tu máquina local utilizando Git:
 
@@ -35,7 +35,7 @@ Este proyecto implementa una tarjeta de seguimiento de Twitter utilizando React 
    yarn
    ```
 
-## Uso
+## 💻Uso
 
 1. Ejecuta el servidor de desarrollo Vite:
 
@@ -47,7 +47,7 @@ Este proyecto implementa una tarjeta de seguimiento de Twitter utilizando React 
 
 2. Abre tu navegador y ve a `http://localhost:3000` para ver la Twitter Follow Card en acción.
 
-## Contribuir
+## 🫂Contribuir
 
 Si quieres contribuir a este proyecto, por favor sigue estos pasos:
 
